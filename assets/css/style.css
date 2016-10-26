@@ -1,0 +1,50 @@
+.navbar-default {
+    border-color:transparent;
+}
+.navbar-transparent {
+    background-color:transparent;
+}
+.navbar-default .navbar-brand{
+    font-size:30px;
+    color:white;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color:white;
+    font-size:20px;
+}
+
+header {
+    background-image: url("../img/green_cup.png");
+    background-repeat: repeat;
+    background-position:center center;
+    text-align: center;
+    color: white;
+}
+
+header .brand-img{
+    width: 275px;
+    position:relative;
+    margin:20px auto;
+}
+
+header .brand-img img{
+    margin-top:80px;
+}
+header .intro-description {
+    font-size:35px;
+    color:white;
+    margin:50px auto 0 auto;
+}
+header .intro-heading{
+    font-size: 85px;
+    padding-bottom: 25px;
+}
+
+.intro-button{
+    margin-bottom:60px;
+}
+
+.btn-lg {
+    padding:15px 29px;
+}
