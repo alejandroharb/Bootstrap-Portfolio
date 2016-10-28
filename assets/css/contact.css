@@ -1,0 +1,55 @@
+body{
+	background-image:url('../img/subtle_white_feathers.png');
+	background-repeat: repeat;
+}
+.navbar-default {
+    border-color:rgb(44,62,80);
+}
+.navbar-blue {
+    background-color:rgb(44,62,80);
+    padding:10px 0;
+}
+.navbar-default .navbar-brand{
+    font-size:45px;
+    color:#fff;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+    color:#e0e0e0;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color:#fff;
+    font-size:20px;
+}
+section{
+	margin-top:100px;
+}
+form{
+	margin-top: 20px;
+	background-color:#fff;
+    padding:30px;
+    border-radius: 10px;
+}
+.contact-me{
+	margin-top:20px;
+	margin-bottom:90px;
+	text-align: center;
+	padding:10px 30px;
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+.contact-me img{
+	max-width: 60px;
+}
+
+
+footer{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+    padding:1px;
+    color: #fff;
+    background-color:rgb(44,62,80);
+}
